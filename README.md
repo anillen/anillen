@@ -1,4 +1,5 @@
 <div id="header" align="center">
+    <h1>Hello world!</h1>
   <img alt="Im it programmer" height=250 width=350 src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"/>
   <div id="badges">
   <a href="https://t.me/anillen">
@@ -6,8 +7,9 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=anillen&style=flat-square&color=blue" alt=""/>
-  <h1>Hello world!</h1>
 </div>
+
+---
 
 ### :man_technologist: About Me :
 
@@ -41,4 +43,5 @@ I am a Full Stack Developer from Russia!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anillen&theme=dark&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=490)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anillen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+
+ ---
