@@ -49,6 +49,6 @@ I am a Full Stack Developer from Russia!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anillen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [Boosty-logo]: https://img.shields.io/badge/Support%20me-%23eb9707?style=flat-square
-[Boosty-url]: https://boosty.to/anillen
+[Boosty-url]: https://boosty.to/anillen/donate
 
  ---
