@@ -57,8 +57,6 @@ I am a Full Stack Developer from Russia!
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anillen&theme=dark&border_radius=5&date_format=%5BY.%5Dn.j&mode=weekly&card_width=490)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anillen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [Boosty-logo]: https://img.shields.io/badge/Support%20me-%23eb9707?style=flat-square
