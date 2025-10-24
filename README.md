@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1>Hello world!</h1>
-  <img alt="Im it programmer" height=250 width=350 src="https://media.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif"/>
     <div id="badges">
         <a href="https://www.codewars.com/users/anillen">
             <img src="https://www.codewars.com/users/anillen/badges/large" alt="codewars"/>
