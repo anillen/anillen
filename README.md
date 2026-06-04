@@ -1,4 +1,4 @@
-<h1 align="center"> Anillen Teamlead/FullstackDeveloper </h1>
+<h1 align="center">Teamlead/FullstackDeveloper</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
